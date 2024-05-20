@@ -1,7 +1,7 @@
 # Visual NFA to DFA Converter
 ![Lint and Test](https://github.com/joeylemon/nfa-to-dfa/workflows/Lint%20and%20Test/badge.svg)
 
-https://M_Nabil.github.io/nfa-to-dfa/
+[https://M_Nabil.github.io/nfa-to-dfa](https://nfa-to-dfa-one.vercel.app/)/
 
 ## Overview
 
